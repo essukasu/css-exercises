@@ -1,0 +1,16 @@
+button
+{
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    color: white;
+}
+
+.black-bg
+{
+background-color: black;
+}
+.yellow-bg
+{
+    background-color: #fff898;
+    color: black;
+}
