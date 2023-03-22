@@ -1,0 +1,26 @@
+
+
+.odd-value,
+.bigger 
+{
+    background-color: #f99895;
+font-family: Verdana, "DejaVu Sans", sans-serif;
+color: #000000;
+}
+
+.bigger
+{
+    font-size: 24px;
+}
+
+#divtwo {
+    background-color: #ffffff;
+    color: #2323e3;
+    font-size: 36px;
+}
+#divfour {
+    background-color: #9aea77 ;
+    color: #000000;
+    font-weight: bold;
+    font-size: 32px;
+}
